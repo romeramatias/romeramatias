@@ -8,7 +8,7 @@
 [Lenguajes2]: https://github-readme-stats.vercel.app/api/top-langs/?username=romeramatias&theme=radical&hide=java,javascript,html,vue,tsql&langs_count=10
 [Tiempo]: https://github-readme-stats.vercel.app/api/wakatime?username=romeramatias&theme=radical
 
-| Mis contribuciones | Lenguajes |  |
+| Mis contribuciones | Lenguajes | 🖱 |
 | ----------- | ----------- | -----------
 | ![Contribuciones] | ![Lenguajes]|  ![Lenguajes2] |
 

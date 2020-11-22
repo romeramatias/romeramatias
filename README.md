@@ -18,6 +18,8 @@
 | ----------- | -----------
 | ![Contribuciones] | ![Lenguajes]|
 
+---
+
 | Proyectos realizados | 👨🏼‍💻 |
 | ----------- | ----------- |
 | [![repo-API-Foxes]][Link-API-Foxes] | [![repo-Notes-App]][Link-Notes-APP] |  

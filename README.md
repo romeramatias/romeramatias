@@ -8,11 +8,17 @@
 [Lenguajes]: https://github-readme-stats.vercel.app/api/top-langs/?username=romeramatias&theme=radical&hide=css&langs_count=5
 [Lenguajes2]: https://github-readme-stats.vercel.app/api/top-langs/?username=romeramatias&theme=radical&hide=java,javascript,html,css,scss,vue&langs_count=9
 
+[Link-API-Foxes]: https://github.com/romeramatias/project-ApiFoxes
+[Link-Notes-App]: https://github.com/romeramatias/project-NotasApp
+[Link-Turnos-App]: https://github.com/romeramatias/ort-1-2-pnt1-mvc-CentroDeTurnos
+[Link-Resume]: https://github.com/romeramatias/romeramatias.github.io
+
+
 | Mis contribuciones | Lenguajes | 🖱 |
 | ----------- | ----------- | -----------
 | ![Contribuciones] | ![Lenguajes]|  ![Lenguajes2] |
 
 | Proyectos realizados | 👨🏼‍💻 
 | ----------- | ----------- |
-| ![repo-API-Foxes] | ![repo-Notes-App] |  
-| ![repo-Turnos-App] | ![repo-Resume] |
+| [![repo-API-Foxes]][Link-API-Foxes] | [![repo-Notes-App]][Link-Notes-APP] |  
+| [![repo-Turnos-App]][Link-Turnos-App] | [![repo-Resume]][Link-Resume] |

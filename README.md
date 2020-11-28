@@ -24,4 +24,3 @@
 | ----------- | ----------- |
 | [![repo-API-Foxes]][Link-API-Foxes] | [![repo-Notes-App]][Link-Notes-APP] |  
 | [![repo-Turnos-App]][Link-Turnos-App] | [![repo-Resume]][Link-Resume] |
-

@@ -25,5 +25,5 @@
 | ----------- | ----------- |
 | [![repo-API-Foxes]][Link-API-Foxes] | [![repo-Notes-App]][Link-Notes-APP] |  
 | [![repo-Turnos-App]][Link-Turnos-App] | [![repo-Resume]][Link-Resume] |
-| [![repo-Avamcar]][Link-Avamcar] | 👨🏻‍💻 |
+| [![repo-Avamcar]][Link-Avamcar] | 🤔 |
 

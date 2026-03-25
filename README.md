@@ -1,6 +1,6 @@
 # Matías Romera
 
-Software Engineer at [Chattigo](https://www.linkedin.com/company/chattigo_principal/) · Argentina
+*I like simple code that solves hard problems.*
 
 ![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/Go-000000?style=flat-square&logo=go&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=white)
 

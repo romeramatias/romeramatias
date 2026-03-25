@@ -8,6 +8,8 @@ Software Engineer at [Chattigo](https://www.linkedin.com/company/chattigo_princi
 
 <summary>More about me</summary>
 
+<br>
+
 I design backend systems that handle high concurrency, integrate external platforms and keep things simple where others over-engineer. Currently working across microservices with Go, Java and Node.js on top of Kafka, Redis, MongoDB and Kubernetes.
 
 Most recently, I built an internal deploy and observability platform that unified Jira, Bitbucket, Artifact Registry and Kubernetes into a single operational flow — replacing a manual multi-tool checklist with real-time concurrent deploys.

@@ -1,6 +1,6 @@
 # Matías Romera
 
-*I like simple systems that solve real operational problems.*
+*Simple code to solve real problems.*
 
 ![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/Go-000000?style=flat-square&logo=go&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=white)
 
